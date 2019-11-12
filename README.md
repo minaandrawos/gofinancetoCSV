@@ -4,6 +4,7 @@ A command line tool that generates CSV reports of stock data, written in Go
 # Build
 
 ```
+go get github.com/minaandrawos/gofinancetoCSV/...
 go build -o financetoCSV
 ```
 
